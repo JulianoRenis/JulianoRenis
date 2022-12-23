@@ -2,7 +2,7 @@
 # Career Transition
 
 - Java pelo youtube ♣
-- Estudando Desevolvimento Android com Kotlin 📚
+- Estudando Desenvolvimento Android  Kotlin 📚
 - Estudando inglês 🦜
 
 <div align="center">
