@@ -1,5 +1,9 @@
 ### Olá sou o Juliano Renis 👋
-- Estudando Desevolvimento Android com Kotlin
+# Career Transition
+
+- Java pelo youtube ♣
+- Estudando Desevolvimento Android com Kotlin 📚
+- Estudando inglês 🦜
 
 <div align="center">
   <a href="https://github.com/julianorenis">
@@ -17,9 +21,7 @@
   <a href="https://www.instagram.com/julianorenisgomessilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:julianorenis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliano-santos-29012213b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
+
 </div>
 
 <!--
