@@ -1,5 +1,5 @@
-### Olá sou o Juliano Renis 👋
-# Career Transition
+### Olá eu sou Juliano Renis 👋
+# Career Transition - Desenvolvedor Android nativo
 
 - Java pelo youtube ♣
 - Estudando Desenvolvimento Android  Kotlin 📚
