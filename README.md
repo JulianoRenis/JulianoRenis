@@ -1,5 +1,5 @@
 ### Olá eu sou Juliano Renis 👋
-# Career Transition - Desenvolvedor Android nativo
+# Career Transition - Native Android Developer
 
 - Java pelo youtube ♣
 - Estudando Desenvolvimento Android  Kotlin 📚
@@ -14,8 +14,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  >
-  
-  
+ 
+ 
   <div> 
   
   <a href="https://www.instagram.com/julianorenisgomessilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,17 +24,3 @@
 
 </div>
 
-<!--
-**JulianoRenis/JulianoRenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
