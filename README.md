@@ -1,9 +1,7 @@
 ### Olá eu sou Juliano Renis 👋
 # Career Transition - Native Android Developer
 
-- Java pelo youtube ♣
-- Estudando Desenvolvimento Android  Kotlin 📚
-- Estudando inglês 🦜
+- Desenvolvimento Android  Kotlin 📚
 
 <div align="center">
   <a href="https://github.com/julianorenis">
